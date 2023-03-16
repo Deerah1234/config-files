@@ -7,7 +7,7 @@ To use my nvim configs, you need to have Neovim installed on your machine. You c
 Once you have installed Neovim, you can clone this repository into your `~/.config/nvim` directory using the following command:
 
 ```bash
-git clone https://github.com/<your-username>/nvim-config.git ~/.config/nvim
+git clone https://github.com/Deerah1234/nvim-config.git ~/.config/nvim
 ```
 
 You can also fork this repository and customize it to your own liking.
