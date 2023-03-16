@@ -4,7 +4,7 @@ Welcome to my Neovim (nvim) configs repository! This repository contains all the
 ## Installation
 To use my nvim configs, you need to have Neovim installed on your machine. You can download and install it by following the instructions in the official Neovim documentation [here](https://github.com/neovim/neovim/wiki/Installing-Neovim).
 
-Once you have installed Neovim, you can clone this repository into your ```~/.config/nvim`` directory using the following command:
+Once you have installed Neovim, you can clone this repository into your `~/.config/nvim` directory using the following command:
 
 ```bash
 git clone https://github.com/<your-username>/nvim-config.git ~/.config/nvim
@@ -12,7 +12,7 @@ git clone https://github.com/<your-username>/nvim-config.git ~/.config/nvim
 
 You can also fork this repository and customize it to your own liking.
 
-#Plugins
+# Plugins
 My nvim configs use several plugins to enhance the editor's functionality. These plugins include:
 
 - [Jellybeans](https://github.com/nanotech/jellybeans.vim): a high-contrast color scheme
