@@ -5,6 +5,7 @@ This repository contains my general configuration files for numerous programs an
 The following configuration files are included in this repository:
 
 - **init.vim** - neovim configuration file
+- **.zshrc** - zsh configuration file
 
 
 ## Usage
