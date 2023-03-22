@@ -8,9 +8,9 @@ To use my Zsh configuration, follow these steps:
 
 1. Clone this repository:
 	```bash
-	https://github.com/Deerah1234/config-files/tree/main/zsh
+	git clone https://github.com/Deerah1234/config-files/tree/main/zsh
 	```
-2. Install (Oh My Zsh)[https://ohmyz.sh/]:
+2. Install [Oh My Zsh](https://ohmyz.sh/):
 	```bash
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 	```
