@@ -8,31 +8,31 @@ To use my Zsh configuration, follow these steps:
 
 1. Clone this repository:
 	```bash
-	git clone https://github.com/[username]/zsh-config.git ~/.zsh-config
+	https://github.com/Deerah1234/config-files/tree/main/zsh
 	```
-2. Install Oh My Zsh:
+2. Install (Oh My Zsh)[https://ohmyz.sh/]:
 	```bash
 	sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 	```
-3. Create a symbolic link to the .zshrc file in this repository:
+3. Create a symbolic link to the **.zshrc** file in this repository:
 	```bash
 	ln -s ~/.zsh-config/.zshrc ~/.zshrc
 	```
 4. Install the required plugins:
-	- zsh-autosuggestions: Install it by running
+	- **zsh-autosuggestions**: Install it by running
 		```bash
 		git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 		```
-	- zsh-syntax-highlighting: Install it by running
+	- **zsh-syntax-highlighting**: Install it by running
 		```bash
 		git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 		```
-	- logo-ls: Install it by running
+	- **logo-ls**: Install it by running
 		```bash
 		npm install --global logo-ls
 		```
 
-	Once installed, add the plugin names to the plugins array in your ~/.zshrc file:
+	Once installed, add the **plugin** names to the plugins array in your **~/.zshrc** file:
 	```bash
 	plugins=(
 		git
@@ -49,7 +49,7 @@ To use my Zsh configuration, follow these steps:
 	```bash
 	git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/custom/themes/powerlevel10k
 	```
-	Then set the ZSH_THEME variable in your ~/.zshrc file to powerlevel10k/powerlevel10k:
+	Then set the **ZSH_THEME** variable in your **~/.zshrc** file to **powerlevel10k/powerlevel10k**:
 	```bash
 	ZSH_THEME="powerlevel10k/powerlevel10k"
 	```
