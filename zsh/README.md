@@ -32,14 +32,14 @@ To use my Zsh configuration, follow these steps:
 		npm install --global logo-ls
 		```
 
-Once installed, add the plugin names to the plugins array in your ~/.zshrc file:
-```bash
-plugins=(
-  git
-  zsh-autosuggestions
-  zsh-syntax-highlighting
-)
-```
+	Once installed, add the plugin names to the plugins array in your ~/.zshrc file:
+	```bash
+	plugins=(
+		git
+		zsh-autosuggestions
+		zsh-syntax-highlighting
+	)
+	```
 
 5. Install the required font:
 
