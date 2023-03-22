@@ -33,15 +33,17 @@ To use my Zsh configuration, follow these steps:
 		```
 
 Once installed, add the plugin names to the plugins array in your ~/.zshrc file:
-	```bash
-	plugins=(
-		git
-		zsh-autosuggestions
-		zsh-syntax-highlighting
-	)
-	```
+```bash
+plugins=(
+	git
+	zsh-autosuggestions
+	zsh-syntax-highlighting
+)
+```
+
 5. Install the required font:
-	**MesloLGS NF Regular**: Download and install the font from (here)[https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k].
+
+	- **MesloLGS NF Regular**: Download and install the font from [here](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k).
 
 6. Install Powerlevel10k:
 	```bash
@@ -58,14 +60,14 @@ Once installed, add the plugin names to the plugins array in your ~/.zshrc file:
 
 ## Customization
 To customize Powerlevel10k prompt, run 
-	```bash
-	p10k configure.
-	```
+```bash
+p10k configure.
+```
 To customize aliases, open the **~/.zshrc** file and add or modify aliases as needed. My aliases can be found towards the bottom of the file.
 To customize the **logo-ls** colors, run 
-	```bash
-	logo-ls --config
-	```
+```bash
+logo-ls --config
+```
 and modify the JSON file that is generated.
 
 ## Feedback
