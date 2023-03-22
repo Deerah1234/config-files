@@ -1,5 +1,5 @@
 # General Configuration Files
-This repository contains my general configuration files for various tools and applications that I use on a regular basis. The configurations are tailored to my personal preferences, but you are welcome to use them as a starting point for your own setup.
+This repository contains my general configuration files for numerous programs and tools which I regularly use. The configurations are tuned to my particular preferences, but they can be used as a starting point for your own setup.
 
 ## What's Included
 The following configuration files are included in this repository:
