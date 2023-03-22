@@ -35,9 +35,9 @@ To use my Zsh configuration, follow these steps:
 Once installed, add the plugin names to the plugins array in your ~/.zshrc file:
 ```bash
 plugins=(
-	git
-	zsh-autosuggestions
-	zsh-syntax-highlighting
+  git
+  zsh-autosuggestions
+  zsh-syntax-highlighting
 )
 ```
 
